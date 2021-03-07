@@ -1,6 +1,6 @@
 # My Personal EAs, Scripts, etc...
 
-![image](./demo/auto-scalping.gif)
+![image](./auto-scalping.gif)
 
 ## Try MT5 for FREE
 

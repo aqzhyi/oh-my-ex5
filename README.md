@@ -1,12 +1,8 @@
 # My Personal EAs, Scripts, etc...
 
-## visible_tp_virual_sl.ex5
+## aqzhyi_better_trading.ex5
 
-![image](./position-line-for-profits.gif)
-
-## oh-my-scalping.ex5
-
-![image](./auto-scalping.gif)
+[![image](./mt5-better-trading.gif)](https://www.notion.so/hilezi/EA-4b82b5c808a94efc9d8781d468f2fdfc)
 
 ## Try MT5 for FREE
 
